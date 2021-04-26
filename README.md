@@ -8,7 +8,7 @@ A project to show how to make your own kind of genetic vector class.
 - <b>pop_back</b>    Pop and return item from vector.
 - <b>size</b>        Return the size of the items in the vector.
 - <b>swap</b>        Swap two vector items.
-- <b>capacity</b>    Show vector capacity.
+- <b>get_capacity</b>    Show vector capacity.
 - <b>get</b>         Get an item using an index.
 
 # Things I would like to add

@@ -10,6 +10,7 @@ A project to show how to make your own kind of genetic vector class.
 - <b>swap</b>        Swap two vector items.
 - <b>get_capacity</b>    Show vector capacity.
 - <b>get</b>         Get an item using an index.
+- <b>clear</b>  Clears the vector class.
 
 # Things I would like to add
 

@@ -15,6 +15,6 @@ A project to show how to make your own kind of genetic vector class.
 # Things I would like to add
 
 - Deleting items
-- allowing for using iterator
+- Allowing for using iterator
 
 Hope you find this code somehow helpful.
